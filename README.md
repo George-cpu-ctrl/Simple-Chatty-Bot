@@ -1,4 +1,4 @@
-Simple-Chatty-Bot
+# Simple-Chatty-Bot
 
 Project link: https://hyperskill.org/projects/126?track=18
 
